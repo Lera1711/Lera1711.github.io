@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+   }   
+   .head{
+     color: black;
+       font-size: 3rem;
+       text-align: center;  
+       letter-spacing:0rem;
+       padding: 7rem;
+       margin-top: 9;
+       background: linear-gradient(to right ,pink, turquoise);
+       text-shadow: rgba(255,255,255,0.5) 0px 4px 9px;   
+   }
+   p{
+     color: gray;;
+     text-align: center;
+      font-size: 2rem;
+   }
+   
+   
+     a{
+      color: hsl(0, 0%, 0%);
+      text-shadow: 1px 1px rgb(255, 250, 250);
+      letter-spacing: 1px;
+      border-bottom: 2px solid transparent;
+     }
+   h3{
+      font-size: 1.5rem;
+     text-align: center;
+   }
+   a:hover {color: #F54318;
+    border-bottom: 2px solid #F54318;
+    box-shadow: 0 1px 0 white, 0 2px 0 #969696;}
+   h2{
+     text-align: center;
+     font-size: 3rem;
+   }
+   div{
+   border: 0px solid black;
+   }
+   .wrapper {
+       text-align: center ;
+     font-size: 1.5rem;
+       display: grid;
+       grid-template-columns: 50% 50% 50%;
+       grid-template-rows: 450px 0px 0px;
+   }
+   h4{
+     text-align: center;
+     font-size: 3rem;
+   }
+   img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }
